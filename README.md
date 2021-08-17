@@ -9,14 +9,18 @@ JB小子式操作
 
 什么？还不会？
 ```
-python.exe fofaScript.py
-【数据数量】请输入查询数据量(默认100条数据)[可选项]：100
-【查询语句】请输入查询语句：title="hello"
+python3 FofaCollection.py
+
+【查询语句】请输入查询语句：title="admin"
+【数据数量】请输入查询数据量(默认100条数据)[可选项]：20
 【提示】你的信息如下:
-    [1]FOFA_EMAIL: [2]FOFA_KEY:  [3]Query:title="hello"  [4]size:100
-['', '', 'title="hello"', 100, True]
-https://fofa.so/api/v1/search/all?email=FOFA_EMAIL&key=FOFA_KEY&qbase64=dGl0bGU9ImhlbGxvIg==&size=100&full=True
+    [1]FOFA_EMAIL:  [2]FOFA_KEY:  [3]Query:title="admin"  [4]size:20
+
+【请求URL】https://fofa.so/api/v1/search/all?email=&key=&qbase64=dGl0bGU9ImFkbWluIg==&size=20&full=True
+
 【提示】ip收集完成，生成文件：ip.txt，ip_http.txt
+
+Process finished with exit code 0
 ```
 
 ## 说明
