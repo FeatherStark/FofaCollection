@@ -9,7 +9,13 @@ JB小子式操作
 
 什么？还不会？
 ```
-python3 FofaCollection.py
+双击FofaCollection.bat
+
+或者python3 FofaCollection.py
+
+```
+
+```
 
 【查询语句】请输入查询语句：title="admin"
 【数据数量】请输入查询数据量(默认100条数据)[可选项]：20
