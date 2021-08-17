@@ -12,7 +12,6 @@ JB小子式操作
 双击FofaCollection.bat
 
 或者python3 FofaCollection.py
-
 ```
 **运行样例：**
 ```
