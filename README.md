@@ -15,7 +15,7 @@ python.exe fofaScript.py
 【提示】你的信息如下:
     [1]FOFA_EMAIL: [2]FOFA_KEY:  [3]Query:title="hello"  [4]size:100
 ['', '', 'title="hello"', 100, True]
-https://fofa.so/api/v1/search/all?email=&key=&qbase64=dGl0bGU9ImhlbGxvIg==&size=100&full=True
+https://fofa.so/api/v1/search/all?email=FOFA_EMAIL&key=FOFA_KEY&qbase64=dGl0bGU9ImhlbGxvIg==&size=100&full=True
 【提示】ip收集完成，生成文件：ip.txt，ip_http.txt
 ```
 
@@ -27,3 +27,4 @@ https://fofa.so/api/v1/search/all?email=&key=&qbase64=dGl0bGU9ImhlbGxvIg==&size=
 
 如果脚本运行报错，检查一下是否开了代理，如果开了代理，需要关闭代理后再运行脚本
 
+声明：本程序仅用于日常编程学习，使用本程序者应当做一个遵纪守法的好公民，使用者在使用中产生的任何责任均与本作者无关。
