@@ -23,7 +23,7 @@ https://fofa.so/api/v1/search/all?email=FOFA_EMAIL&key=FOFA_KEY&qbase64=dGl0bGU9
 
 第一次运行脚本时，输入的email和fofakey会自动保存到info.txt，之后就不用再次输入了
 
-脚本运行完后，会生成两个文件ip.txt(不带有http://的ip或域名)和ip_http.txt(带有http://的ip或域名)
+脚本运行完后，会生成两个文件ip.txt(不带有http:// 的ip或域名)和ip_http.txt(带有http:// 的ip或域名)
 
 如果脚本运行报错，检查一下是否开了代理，如果开了代理，需要关闭代理后再运行脚本
 
