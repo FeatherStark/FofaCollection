@@ -1,5 +1,5 @@
 # FofaCollection
-**一个基于Fofa Api 的PY脚本，用于收集url，简单操作解决你的困难**
+**一个基于FoFa Api 的PY脚本，用于收集url，简单操作解决你的困难**
 
 
 
