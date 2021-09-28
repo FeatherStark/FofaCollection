@@ -1,13 +1,15 @@
 # FofaCollection
-**一个基于Fofa Api 的PY脚本，用于收集url，JB小子式操作解决你的困难**
+**一个基于Fofa Api 的PY脚本，用于收集url，简单操作解决你的困难**
 
-目标：我们是JB小子，别谈什么学编程写代码，我们JB小子就要拿JB日遍宇宙所有站(狗头)
+
 
 ## 使用
+这里需要安装requests库
 
-JB小子式操作
+`
+pip install requests
+`
 
-什么？还不会？
 ```
 双击FofaCollection.bat
 
