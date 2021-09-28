@@ -10,6 +10,8 @@
 pip install requests
 `
 
+**如何使用：**
+
 ```
 双击FofaCollection.bat
 
