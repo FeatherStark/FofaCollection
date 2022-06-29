@@ -24,7 +24,7 @@ pip install requests
 【提示】你的信息如下:
     [1]FOFA_EMAIL:  [2]FOFA_KEY:  [3]Query:title="hello"  [4]size:20
 
-【请求URL】https://fofa.so/api/v1/search/all?email=&key=&qbase64=aGVsbG8==&size=20&full=True
+【请求URL】https://fofa.info/api/v1/search/all?email=&key=&qbase64=aGVsbG8==&size=20&full=True
 
 【提示】ip收集完成，生成文件：ip.txt，ip_http.txt
 
