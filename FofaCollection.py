@@ -48,7 +48,7 @@ def checkError(FOFA_EMAIL,FOFA_KEY,size):
 def collectionData(infos):
     header = {'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:40.0) Gecko/20100101 Firefox/40.1', }
     QBASE64 = base64.b64encode(infos[2].encode('utf-8'))
-    url = f"https://fofa.so/api/v1/search/all?email={infos[0]}&key={infos[1]}&qbase64={str(QBASE64,encoding='utf-8')}&size={infos[3]}&full={infos[4]}"
+    url = f"https://fofa.info/api/v1/search/all?email={infos[0]}&key={infos[1]}&qbase64={str(QBASE64,encoding='utf-8')}&size={infos[3]}&full={infos[4]}"
     print("\n【请求URL】"+url)
     resp = requests.get(url=url)
     ip_dir = resp.json()
